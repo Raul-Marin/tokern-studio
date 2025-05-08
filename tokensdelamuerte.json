@@ -1,0 +1,38 @@
+{
+  "global": {
+    "red-500": {
+      "value": "#ff0a0a",
+      "type": "color"
+    },
+    "red-400": {
+      "value": "#fd4747",
+      "type": "color"
+    },
+    "red-300": {
+      "value": "#d8e57e",
+      "type": "color"
+    },
+    "01": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "02": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "font-brand": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "xl": {
+      "value": "48",
+      "type": "fontSizes"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
